@@ -1,0 +1,14 @@
+/Users/rachidamrani/Workspace/ErrorResultPattern/bin/Debug/net9.0/ErrorResultPattern
+/Users/rachidamrani/Workspace/ErrorResultPattern/bin/Debug/net9.0/ErrorResultPattern.deps.json
+/Users/rachidamrani/Workspace/ErrorResultPattern/bin/Debug/net9.0/ErrorResultPattern.runtimeconfig.json
+/Users/rachidamrani/Workspace/ErrorResultPattern/bin/Debug/net9.0/ErrorResultPattern.dll
+/Users/rachidamrani/Workspace/ErrorResultPattern/bin/Debug/net9.0/ErrorResultPattern.pdb
+/Users/rachidamrani/Workspace/ErrorResultPattern/obj/Debug/net9.0/ErrorResultPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachidamrani/Workspace/ErrorResultPattern/obj/Debug/net9.0/ErrorResultPattern.AssemblyInfoInputs.cache
+/Users/rachidamrani/Workspace/ErrorResultPattern/obj/Debug/net9.0/ErrorResultPattern.AssemblyInfo.cs
+/Users/rachidamrani/Workspace/ErrorResultPattern/obj/Debug/net9.0/ErrorResultPattern.csproj.CoreCompileInputs.cache
+/Users/rachidamrani/Workspace/ErrorResultPattern/obj/Debug/net9.0/ErrorResultPattern.dll
+/Users/rachidamrani/Workspace/ErrorResultPattern/obj/Debug/net9.0/refint/ErrorResultPattern.dll
+/Users/rachidamrani/Workspace/ErrorResultPattern/obj/Debug/net9.0/ErrorResultPattern.pdb
+/Users/rachidamrani/Workspace/ErrorResultPattern/obj/Debug/net9.0/ErrorResultPattern.genruntimeconfig.cache
+/Users/rachidamrani/Workspace/ErrorResultPattern/obj/Debug/net9.0/ref/ErrorResultPattern.dll
